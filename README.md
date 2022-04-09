@@ -1,4 +1,4 @@
-# PredictionRegressionModel_Trainnng-python
+# PredictionRegressionModel_Training-python
 
 I list the models which are often used for my statistics research.
 
