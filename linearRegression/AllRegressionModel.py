@@ -145,7 +145,7 @@ x = analysis_data(["Y"], axis = 1)
 y = analysis_data["Y"]
 
 lm = LinearRegression()
-print(cross_val_score(lm, x, y, cv = 4).mean())     # 4-fold cross-vaidation for vaidation fitting. it's fixed value.
+print(cross_val_score(lm, x, y, cv = 4).mean())     # 4-fold cross-vaidation for validation fitting. it's fixed value.
 
 """
 
