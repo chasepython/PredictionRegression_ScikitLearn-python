@@ -3,7 +3,7 @@
 I list the models which are often used for my statistics research.
 
 You can use this for regression model,predictable model,best fitting model and Lasso regression.
-You can change the parameter in moedel whatever you want.
+You can change the arguments in moedel whatever you want.
 
 Models：
 1.simple Regression
