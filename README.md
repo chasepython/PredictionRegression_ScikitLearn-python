@@ -1,4 +1,4 @@
-# PredictionRegressionModel_Training-python
+# PredictionRegression_Scikit-Learn-python
 
 I list the models which are often used for my statistics research.
 
